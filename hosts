@@ -24,4 +24,4 @@
 127.0.0.1	office.net
 127.0.0.1	cdn.office.net
 127.0.0.1	res.cdn.office.net
-127.0.0.1	res-geo.cdn.office.net
+#127.0.0.1	res-geo.cdn.office.net
